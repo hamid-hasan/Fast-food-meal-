@@ -1,2 +1,2 @@
 # Fast-food-meal-
-fully responsive website with the help of HTML and CSS. The website is  somewhat similar to food delivery services. The website will automatically behave responsively according to different screen sizes
+I created a fully responsive website using  HTML and CSS while watching  with the help of Tutorial . The website is  somewhat similar to food delivery services. The website will automatically behave responsively according to different screen sizes
